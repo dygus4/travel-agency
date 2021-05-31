@@ -35,7 +35,29 @@ export default function reducer(statePart = [], action = {}) {
     case CHANGE_FROM_DURATION:
       return {
         ...statePart,
-        searchPhrase: action.payload,
+        duration: {
+          ...statePart.duration, 
+          from: action.payload,
+        },
+      };  
+    case CHANGE_TO_DURATION:
+      return {
+        ...statePart,
+        duration: {
+          ...statePart.duration, 
+          to: action.payload,
+        },
+      };
+    case ADD_TAGS:
+      return {
+        ...statePart,
+        tags: [...statePart.tags, action.payload],
+      };
+    case REMOVE_TAGS:
+      console.log('action payload removing tag ', action.payload);  
+      return {
+        ...statePart,
+        tags: [...statePart.tags.filter((tag) => tag != action.payload)],
       };  
       
     // TODO - handle other action types
