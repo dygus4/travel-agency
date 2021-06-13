@@ -1,0 +1,83 @@
+{
+  "orders": [
+    {
+      "car-rental": "suv",
+      "accommodation": "hotel",
+      "features": [
+        "pool"
+      ],
+      "adults": "1",
+      "children": "2",
+      "name": "jk b",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$105,162",
+      "id": 1
+    },
+    {
+      "car-rental": "suv",
+      "accommodation": "hotel",
+      "features": [
+        "pool"
+      ],
+      "adults": "1",
+      "children": "2",
+      "name": "jk b",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$105,162",
+      "id": 2
+    },
+    {
+      "car-rental": "luxury",
+      "accommodation": "hotel",
+      "features": [
+        "security",
+        "kitchen"
+      ],
+      "adults": 1,
+      "children": "2",
+      "name": "xnxx",
+      "contact": "zfnhzfn",
+      "start-date": "2021-06-21T22:00:00.000Z",
+      "totalCost": "$64,238",
+      "tripId": "5cc1d10181a30e85c8d9ad4a",
+      "tripName": "Pleasant trek in outstanding Togo",
+      "id": 3
+    },
+    {
+      "car-rental": "luxury",
+      "accommodation": "hotel",
+      "features": [
+        "security",
+        "kitchen"
+      ],
+      "adults": 1,
+      "children": "2",
+      "name": "xnxx",
+      "contact": "zfnhzfn",
+      "start-date": "2021-06-21T22:00:00.000Z",
+      "totalCost": "$64,238",
+      "tripId": "5cc1d10181a30e85c8d9ad4a",
+      "tripName": "Pleasant trek in outstanding Togo",
+      "id": 4
+    },
+    {
+      "car-rental": "luxury",
+      "accommodation": "hotel",
+      "features": [
+        "security",
+        "kitchen"
+      ],
+      "adults": 1,
+      "children": "2",
+      "name": "xnxx",
+      "contact": "zfnhzfn",
+      "start-date": "2021-06-21T22:00:00.000Z",
+      "totalCost": "$64,238",
+      "tripId": "5cc1d10181a30e85c8d9ad4a",
+      "tripName": "Pleasant trek in outstanding Togo",
+      "id": 5
+    }
+  ]
+}
