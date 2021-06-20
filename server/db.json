@@ -78,6 +78,42 @@
       "tripId": "5cc1d10181a30e85c8d9ad4a",
       "tripName": "Pleasant trek in outstanding Togo",
       "id": 5
+    },
+    {
+      "car-rental": "suv",
+      "accommodation": "house",
+      "features": [
+        "security",
+        "pool"
+      ],
+      "adults": "2",
+      "children": "3",
+      "name": "xsfhsh",
+      "contact": "sfj",
+      "start-date": "2021-06-21T22:00:00.000Z",
+      "totalCost": "$117,317",
+      "tripId": "5cc1d10181a30e85c8d9ad4a",
+      "countryCode": "TGO",
+      "tripName": "Pleasant trek in outstanding Togo",
+      "id": 6
+    },
+    {
+      "car-rental": "suv",
+      "accommodation": "house",
+      "features": [
+        "security",
+        "pool"
+      ],
+      "adults": "2",
+      "children": "3",
+      "name": "xsfhsh",
+      "contact": "sfj",
+      "start-date": "2021-06-21T22:00:00.000Z",
+      "totalCost": "$117,317",
+      "tripId": "5cc1d10181a30e85c8d9ad4a",
+      "countryCode": "TGO",
+      "tripName": "Pleasant trek in outstanding Togo",
+      "id": 7
     }
   ]
 }
