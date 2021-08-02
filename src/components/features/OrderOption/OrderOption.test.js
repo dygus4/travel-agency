@@ -81,8 +81,8 @@ describe('Component OrderOption', () => {
       /* common tests */
       it('passes dummy test', () => {
         expect(1).toBe(1);
-        console.log(component.debug());
-        console.log(subcomponent.debug());
+        //console.log(component.debug());
+        //console.log(subcomponent.debug());
       });
   
       /* type-specific tests */

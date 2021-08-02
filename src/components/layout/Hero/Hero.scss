@@ -51,3 +51,11 @@
   left: 0;
   right: 0;
 }
+
+.daysToSummer {
+  z-index: 99;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 15%;
+}
